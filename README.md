@@ -1,4 +1,4 @@
-# BeeTycoon
+# Bee Tycoon
 ## By Celia Evans
 
 **This is the entirety of my Bee Tycoon game written in Python using Pygame.**
